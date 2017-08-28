@@ -1,0 +1,10 @@
+{
+	"name": "Header",
+	"props": {
+		"projectName": {
+			"type": "string",
+			"desc": "Project Name",
+			"required": true
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"widget": {
+		"folder": "./widgets"
+	},
+	"page": {
+		"template": {
+			"main": "./bootstrap-marketing-site.html"
+		}
+	},
+	"s3": {
+		"bucket": "awsstaticcms",
+		"key_prefix": "bootstrap-marketing-site",
+		"region": "eu-west-1",
+
+		"target": {
+			"bucket": "bootstrap-marketing-site",
+			"region": "eu-west-1"
+		}
+	}
+}

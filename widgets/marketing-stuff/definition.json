@@ -1,0 +1,20 @@
+{
+	"name": "Marketing Stuff",
+	"props": {
+		"header": {
+			"type": "string",
+			"desc": "Header Text",
+			"required": true
+		},
+		"text": {
+			"type": "string",
+			"desc": "Text",
+			"required": true
+		},
+		"buttonText": {
+			"type": "string",
+			"desc": "Button Text",
+			"required": true
+		}
+	}
+}

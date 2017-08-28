@@ -1,0 +1,42 @@
+{
+    "name": "Homepage",
+    "slug": "homepage",
+    "configuration": [
+        {
+            "props": {
+                "projectName": "aws cms"
+            },
+            "widget": "Header",
+            "id": "RC3wF"
+        },
+        {
+            "props": {
+                "header": "dfkgj",
+                "text": "sdf isdjf sidof sdiof jsdoif",
+                "buttonText": "sdfsdf"
+            },
+            "widget": "Marketing Stuff",
+            "id": "ie2Kr"
+        },
+        {
+            "props": {
+				"header1":"dfkjgh",
+				"header2": "skjgh",
+				"header3": "sfkjgh",
+				"text1": "skjgfh",
+				"text2": "skfjgh",
+				"text3" :"sdfghj"
+            },
+            "widget": "Three columns with header, text and button",
+            "id": "ijL7N"
+        },
+        {
+            "props": {
+                "company": "support@domain.tld",
+                "year": "555"
+            },
+            "widget": "Footer",
+            "id": "QO5qz"
+        }
+    ]
+}

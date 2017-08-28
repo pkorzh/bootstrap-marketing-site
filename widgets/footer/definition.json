@@ -1,0 +1,15 @@
+{
+	"name": "Footer",
+	"props": {
+		"company": {
+			"type": "string",
+			"desc": "Company Name",
+			"required": true
+		},
+		"year": {
+			"type": "string",
+			"desc": "Year",
+			"required": true
+		}
+	}
+}

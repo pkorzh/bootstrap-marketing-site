@@ -1,0 +1,37 @@
+{
+	"name": "Three columns with header, text and button",
+	"props": {
+		"header1": {
+			"type": "string",
+			"desc": "First Column Header",
+			"required": true
+		},
+		"text1": {
+			"type": "string",
+			"desc": "First Column Text",
+			"required": true
+		},
+
+		"header2": {
+			"type": "string",
+			"desc": "Second Column Header",
+			"required": true
+		},
+		"text2": {
+			"type": "string",
+			"desc": "Second Column Text",
+			"required": true
+		},
+
+		"header3": {
+			"type": "string",
+			"desc": "Third Column Header",
+			"required": true
+		},
+		"text3": {
+			"type": "string",
+			"desc": "Third Column Text",
+			"required": true
+		}
+	}
+}
