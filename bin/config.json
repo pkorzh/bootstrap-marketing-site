@@ -1,0 +1,19 @@
+{
+	"widget": {
+		"folder": "./../widgets"
+	},
+	"page": {
+		"template": {
+			"main": "./../bootstrap-marketing-site.html"
+		}
+	},
+	"s3": {
+		"bucket": "awsstaticcms",
+		"key_prefix": "bootstrap-marketing-site",
+		"region": "eu-west-1"
+	},
+	"api": {
+		"root": "https://fwncn1u6d8.execute-api.eu-west-1.amazonaws.com/dev",
+		"key": "KbhJM299u74NRuGq3q3ID8XZqOPSvpbia9y9C5zv"
+	}
+}

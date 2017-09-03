@@ -1,0 +1,20 @@
+{
+  "name": "bin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^3.0.1",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4",
+    "rimraf": "^2.6.1",
+    "s3": "^4.4.0",
+    "tempy": "^0.1.0"
+  }
+}
